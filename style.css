@@ -95,3 +95,14 @@ input {
     margin-left: 136px;
     padding-left: .5rem;
 }
+
+.results__stats {
+    font-size: .7rem;
+    color: #808080;
+}
+
+.results__feature {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 1 2;
+}
