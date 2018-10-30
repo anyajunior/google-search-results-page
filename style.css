@@ -163,3 +163,21 @@ main {
     color: #4285f4;
     padding-right: 1rem;
 }
+
+.footer__info {
+    background-color: #f2f2f2;
+    height: 2rem;
+}
+
+.footer__link {
+    color: gray;
+}
+
+.footer__info > ul {
+    list-style-type: none;
+}
+
+.footer__geo {
+    display: flex;
+    align-items: center;
+}
