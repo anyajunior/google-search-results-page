@@ -139,3 +139,27 @@ main {
 .results__links_item {
     padding-bottom: .5rem;
 }
+
+.results__more {
+    display: grid;
+    width: 250px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.results__google {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.results__pagination {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.results__pages {
+    font-size: .7rem;
+    color: #4285f4;
+    padding-right: 1rem;
+}
